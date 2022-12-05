@@ -1,0 +1,28 @@
+{
+  "name": "clock-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Voltivon/Clock-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Voltivon/Clock-App/issues"
+  },
+  "homepage": "https://github.com/Voltivon/Clock-App#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.2",
+    "csv-loader": "^3.0.5",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0",
+    "xml-loader": "^1.2.1"
+  }
+}
